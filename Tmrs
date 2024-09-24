@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>סטודיו שמלות כלה</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        header { background-color: #f5f5f5; padding: 20px; text-align: center; }
+        .dress-list { margin: 20px; }
+        .dress-item { border: 1px solid #ccc; padding: 10px; margin: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ברוכים הבאים לסטודיו שמלות כלה</h1>
+    </header>
+    <div class="dress-list">
+        <h2>שמלות זמינות</h2>
+        <div class="dress-item">
+            <h3>שמלות לבנה יפה</h3>
+            <p>תיאור: שמלה קלילה ואלגנטית.</p>
+            <p>מחיר השאלה: 1000 ש"ח</p>
+        </div>
+        <!-- הוסף עוד שמלות כאן -->
+    </div>
+</body>
+</html>
